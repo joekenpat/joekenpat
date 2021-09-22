@@ -1,4 +1,4 @@
-# :handshake: Hello! My name is Patrick Joel :man: I live in Nigeria :flag-ng:
+# :handshake: Hello! My name is Patrick Joel :man: I live in Nigeria 🇳🇬
 
 ## I am a Software Engineer
 ### About me
@@ -14,4 +14,4 @@ ___
 
 |Git Statistics|Top Languages|Streak|
 |-|-|-|
-|[![joekenpat's github stats](https://github-readme-stats.vercel.app/api?username=joekenpat&show_icons=true&theme=default&hide_title=true&count_private=true)](https://github.com/joekenpat)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joekenpat&show_icons=true&theme=default&layout=compact&card_width=440&hide_title=true)](https://github.com/joekenpat)|![joekenpat](https://github-readme-streak-stats.herokuapp.com/?user=joekenpat&theme=dark)|
+|[![joekenpat's github stats](https://github-readme-stats.vercel.app/api?username=joekenpat&show_icons=true&theme=dark&hide_title=true&count_private=true)](https://github.com/joekenpat)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joekenpat&show_icons=true&theme=dark&layout=compact&card_width=440&hide_title=true)](https://github.com/joekenpat)|![joekenpat](https://github-readme-streak-stats.herokuapp.com/?user=joekenpat&theme=dark)|
