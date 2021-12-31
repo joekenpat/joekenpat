@@ -1,11 +1,10 @@
-# :handshake: Hello! My name is Patrick Joel :man: I live in Nigeria 🇳🇬
+# Hi :handshake: ! I'm Patrick Joel
 
-## I am a Software Engineer
 ### About me
-I’m an engineer with a flair for creating elegant solutions in a productive amount of time, developing web applications for SMEs, am also a regular attendee of web developer meetups.  
+A Software engineer with love for creating elegant solutions, i pride myself on code simplicity and re-usability. 
 I am constantly experimenting with new technologies and techniques.
 
-My values are pinned on Reliablity, Hardwork and Loyalty.
+My values are pinned on `Reliablity`, `Smartwork` and `Loyalty`.
 
 ### Connect with me:
 
